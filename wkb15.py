@@ -11,7 +11,7 @@ import time
 import urllib.parse
 import json
 
-cookies = os.getenv("wk01")
+cookies = os.getenv("wk15")
 ua = ""
 num = 60  # 循环参数
 
